@@ -132,7 +132,7 @@ function AppCarrinho() {
                 <td>
                   <div class="qty">
                     <button class="decrement"><AiOutlineMinus /></button>
-                    <span>2</span>
+                    <span>1</span>
                     <button class="increment"><AiOutlinePlus /></button>
                   </div>
                 </td>
@@ -157,7 +157,7 @@ function AppCarrinho() {
                 <td>
                   <div class="qty">
                     <button class="decrement"><AiOutlineMinus /></button>
-                    <span>2</span>
+                    <span>1</span>
                     <button class="increment"><AiOutlinePlus /></button>
                   </div>
                 </td>
@@ -183,7 +183,7 @@ function AppCarrinho() {
                 <td>
                   <div class="qty">
                     <button class="decrement"><AiOutlineMinus /></button>
-                    <span>2</span>
+                    <span>1</span>
                     <button class="increment"><AiOutlinePlus /></button>
                   </div>
                 </td>
@@ -209,7 +209,7 @@ function AppCarrinho() {
                 <td>
                   <div class="qty">
                     <button class="decrement"><AiOutlineMinus /></button>
-                    <span>2</span>
+                    <span>1</span>
                     <button class="increment"><AiOutlinePlus /></button>
                   </div>
                 </td>
